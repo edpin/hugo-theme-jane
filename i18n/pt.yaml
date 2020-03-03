@@ -1,5 +1,5 @@
 - id: archive
-  translation: Archivo
+  translation: Arquivo
 
 - id: tags
   translation: Tags
@@ -27,7 +27,7 @@
   translation: Seguinte
 
 - id: toc
-  translation: Contéudo
+  translation: Conteúdo
 
 - id: readmore
   translation: Ler mais
